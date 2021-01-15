@@ -1,1 +1,1 @@
-FROM gcr.io/boos-demo-projects-are-rad/kf-steps/kubeflow/myspark:2.4.5
+FROM gcr.io/boos-demo-projects-are-rad/kf-steps/kubeflow/myspark:v2.4.5
