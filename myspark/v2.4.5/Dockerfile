@@ -1,0 +1,1 @@
+FROM gcr.io/boos-demo-projects-are-rad/kf-steps/kubeflow/myspark
